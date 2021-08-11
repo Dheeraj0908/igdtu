@@ -1,0 +1,342 @@
+@media screen and (max-width: 1250px){
+	.social-media ul li {
+    padding-left: 3px;
+}
+	
+}
+
+@media screen and (max-width: 1199px){
+	ul#menu-header-menu li a {
+    padding: 15.5px 8px;
+}
+	.metaslider .caption-wrap {
+    max-width: 60%;
+    padding: 0 45px 0 80px;
+}
+	.social-media ul li {
+    padding-left: 2px;
+}
+	.container-fluid {
+    padding: 0 40px!important;
+}
+	.social-media ul li a i {
+    width: 35px;
+	height: 35px;
+}
+	ul#menu-main-menu li a {
+    padding: 16px 15px;
+    font-size: 16px;
+}
+	ul#menu-main-menu .menu-item-has-children:before {
+    top: 17px;
+    right: 0px;
+    font-size: 18px;
+}
+	.message-image {
+    padding-right: 0;
+}
+	h2.sec-head {
+	font-size: 32px;
+}
+	.tab ul li a {
+    font-size: 18px;
+    padding: 20px 15px;
+    min-width: 230px;
+}
+	.contact-area-text ul li h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+	.footer-images img {
+    display: block;
+    padding-top: 100px;
+    position: relative;
+    left: 0;
+    transform: none;
+    margin-left: 0px;
+    bottom: -1px;
+    margin: 0 auto!important;
+}
+	.award-slider-box-text h3 {
+	font-size: 16px;
+	min-height: 55px;
+}
+	.tab ul li {
+    padding: 0 20px;
+}
+}
+
+@media screen and (max-width: 991px){
+	.footer-images img {
+    width: 100%;
+    max-width: 65%;
+}
+	.banner-cont h3 {
+    font-size: 30px;
+    line-height: 50px;
+}
+	.dy_field .card {
+    margin-top: 40px;
+}
+	.container-fluid {
+    padding: 0 15px!important;
+}
+	aside#sidebar {
+    padding-right: 0;
+}
+	
+	.main-header [class*="col-"] {
+    width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    min-height: auto;
+}
+	.header-text {
+    padding: 25px 0;
+}
+	.main-header {
+    padding: 30px 0;
+}
+	.social-media ul li {
+    padding: 0 5px;
+}
+	.social-media {
+    display: block;
+    margin-left: auto;
+    float: none;
+    margin-right: auto;
+}
+	.header-menu {
+    display: none;
+}
+	section.message-area .col-md-3, section.message-area .col-md-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+	.message-image img {
+    width: auto;
+    height: auto;
+    margin: 0 auto!important;
+    display: block;
+	max-width: 100%;
+}
+	.messsage-content {
+    margin-top: 50px;
+}
+	.tab ul li {
+    padding: 0 10px;
+}
+	.tab ul li a {
+    font-size: 16px;
+    padding: 15px 20px;
+    min-width: auto;
+}
+	.tab-content ul li {
+    font-size: 14px;
+}
+	.tab-content {
+    padding: 25px;
+}
+	.contact-area-text ul {
+    display: block;
+	width: 100%;
+	text-align: center;
+}
+	.contact-area-text ul li h2 {
+    font-size: 25px;
+}
+	.contact-area-text h2 br {
+    display: none;
+}
+	.contact-area-text ul li p {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    padding: 15px 0;
+}	
+	nav.navbar.navbar-expand-lg.navbar-light.p-0 {
+    width: 100%;
+    padding: 0 19px !important;
+}
+	.navbar-light .navbar-toggler {
+    color: rgb(255 255 255);
+    border-color: rgb(255 255 255);
+    background-color: #fff;
+        margin-top: 15px;
+    margin-bottom: 15px;
+}
+	nav.navbar.navbar-expand-lg div#collapsibleNavbar2 {
+    border-top: 1px solid #fff;
+    margin-top: 17px;
+    padding-top: 15px;
+	transition: all 0.8s;
+}
+	ul#menu-main-menu ul.sub-menu {
+    position: inherit;
+    box-shadow: none;
+}
+	ul#menu-main-menu .menu-item-has-children ul.sub-menu li a {
+    pointer-events: all;
+    width: 100%;
+    text-align: left;
+}
+	ul#menu-main-menu .menu-item-has-children {
+    text-align: left;
+}
+	ul#menu-main-menu li a {
+    text-align: left;
+}
+	ul#menu-main-menu .menu-item-has-children:before {
+    right: 15px;
+}
+}
+
+
+@media screen and (max-width: 767px){
+	.header-text h2 {
+    font-size: 20px;
+}
+	.header-text h3 {
+    font-size: 14px;
+    line-height: 24px;
+}
+	.metaslider .slides img {
+    width: 100%;
+    display: block;
+    min-height: 300px!important;
+    object-fit: cover;
+}
+	section.message-area {
+    padding: 60px 0;
+    background: #f2f2f2;
+}
+	h2.sec-head {
+    font-size: 22px;
+}
+	span.cap-txt {
+    font-size: 40px;
+}
+	.messsage-content {
+    margin-top: 50px;
+    padding: 0;
+    box-shadow: none;
+}
+	.messsage-content h4 {
+    background: rgba(240,93,35,0.1);
+    padding: 15px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: var(--sec-color);
+    margin-bottom: 30px;
+}
+	section.award-area h2.sec-head {
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 0px solid var(--sec-color);
+    padding-bottom: 0px;
+    margin-bottom: 45px;
+    width: 100%;
+}
+	.award-slider-box-img img {
+    height: auto;
+    object-fit: cover;
+}
+	section.events {
+    padding: 60px 0;
+}
+	.tab-area {
+	padding: 25px;
+}
+	.tab ul li {
+    margin-bottom: 5px;
+    padding: 0 10px;
+    width: 100%;
+}
+	.tab-content ul li {
+    font-size: 14px;
+    line-height: 30px;
+    padding: 10px 0;
+}
+	.footer-area {
+    margin-bottom: 50px;
+}
+	.footer-images img {
+    width: 100%;
+    max-width: 80%;
+    padding: 0;
+}
+	div#copyright {
+    padding: 15px;
+    text-align: center;
+}
+	.dy_field .card .card-body .image-right {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+    margin-bottom: 40px;
+}
+	.metaslider .caption-wrap {
+    clip-path: none;
+    max-width: 100%;
+    left: inherit!important;
+    right: 0;
+    padding: 45px;
+}
+	.banner-cont h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+}
+	.dy_field .card .card-heading h3 {
+    font-size: 18px;
+    font-weight: 400;
+}
+	.card-body .metaslider .slides img {
+    height: 200px!important;
+    object-fit: cover;
+    min-height: auto!important;
+}
+}
+
+@media screen and (max-width: 567px){
+	.banner-area-inner img {
+    min-height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+	.wptb-table-container table p {
+    font-size: 15px!important;
+}
+	.alignright, .alignleft, .aligncenter {
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px!important;
+    margin-left: 0!important;
+}
+	.envira-gallery-wrap .envira-gallery-public.envira-gallery-css-animations .envira-gallery-item img {
+    height: 150px!important;
+    object-fit: contain!important;
+}
+	.envira-lazy:not(img) {
+    padding-bottom: 150px!important;
+	border: 1px solid #ccc;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
